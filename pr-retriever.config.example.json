@@ -1,0 +1,15 @@
+{
+  "github": {
+    "token": "github_pat_xxxxxxxx"
+  },
+  "gitlab": {
+    "token": "glpat-xxxxxxxx",
+    "username": "",
+    "password": ""
+  },
+  "azure": {
+    "token": "xxxxxxxx",
+    "username": "DOMAIN\\your.user",
+    "password": ""
+  }
+}
