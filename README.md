@@ -325,4 +325,4 @@ requirements.txt
 
 ## License
 
-MIT (or your project license)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
